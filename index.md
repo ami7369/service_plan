@@ -50,8 +50,18 @@ microCMSへの移行サービスを売り出すための販促チラシ・LPを�
 
 ---
 ### 参考になりそうなパートナーサイト
-- ユーザーメリットでの宣伝：[https://chot-inc.com/service/entrusted/large-scale-site-renewal](https://chot-inc.com/service/entrusted/large-scale-site-renewal)
-- WP VS ヘッドレスの詳細な説明：[https://www.grandream.jp/services/website](https://www.grandream.jp/services/website)
+- サービス内容とアピールポイント・WFと必要な情報が全てすっきりまとまっている：[Sinap](https://sinap.jp/service/production/cms-introduction)
+- ヘッドレスメリットの丁寧な説明とWF：[Libelogic](https://www.liberogic.jp/service/headless_cms/)
+- WP VS ヘッドレスの詳細な説明：[Grandream](https://www.grandream.jp/services/website)
+- サイト移行をターゲットにしたPR文が参考になる：[chot](https://chot-inc.com/service/entrusted/large-scale-site-renewal)
+- 複数CMS対応のためアピールポイントがメイン　WFやデザインの参考[microwave](https://www.microwave-creative.co.jp/service/cms-construction/)
+- Q&Aが豊富で参考になる：[BRACHIO](https://brachio.co.jp/flow)
+
+### 参考価格
+- 事例別の参考価格あり 50～400万：[レイメイ](https://raymay-sol.co.jp/service/cms/)
+- ヘッドレスCMS制作 300～500万：[Que.Cs.](https://que-cs.com/price/)
+- WP,MT制作で150万～：[+Jam](https://plusjam.jp/service/website)
+
 
 思い付きメモ
 - microCMSの仕様的な部分以外にお客様にとっての嬉しいのポイントを分かりやすく記載した方がいいい
