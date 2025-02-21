@@ -12,8 +12,8 @@ microCMSへの移行サービスを売り出すための販促チラシ・LPを�
 - [草案2](draft/draft2.md) 　内容をフルで詰め込んだもの。ここから要約
 - [草案1](draft/draft1.md) 　内容が薄い。構成はいい感じ
 - [草案(LP)](draft/draft_LP.md) 　内容が薄い。デザイン案の参考メモ
-
 <br>
+
 ---
 ## 参考になりそうなパートナーサイト
 - サービス内容とアピールポイント・WFと必要な情報が全てすっきりまとまっている：[Sinap](https://sinap.jp/service/production/cms-introduction)
